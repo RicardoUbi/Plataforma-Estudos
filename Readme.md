@@ -64,7 +64,7 @@ Certifique-se de que o Python e o Django estão instalados em seu sistema.
 1. **Clone o Repositório:**
     Clone o repositório do projeto em seu computador utilizando o Git:
      ```bash
-     git clone https://github.com/seu-usuario/nome-do-repositorio.git
+     git clone https://github.com/RicardoUbi/Plataforma-Estudos.git
      ```
 
 2. **Criar e Ativar a Venv:**
