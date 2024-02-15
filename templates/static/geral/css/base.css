@@ -1,0 +1,15 @@
+:root{
+     
+    --main-color: #C9C5CC;
+    --dark-color: #BA61F4;
+    --secondary-dark-color: rgb(15, 2, 26);
+    --light-color: #00c1f3;
+    --contrast-color: #f4c96b;
+    --differential-color: #58fcd5;
+
+}
+
+body{
+    background-color: #0A0327 !important;
+    color: #4F4F51 !important;
+}

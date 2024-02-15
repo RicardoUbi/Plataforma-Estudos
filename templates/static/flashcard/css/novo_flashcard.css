@@ -1,0 +1,60 @@
+.box-new-flashcard{
+    width: 70%;
+    margin: auto;
+    background: #E2DEE6;
+    border-radius: 4px;
+}
+
+.flashcard{
+    background-color: rgba(255, 255, 255, .08);
+    padding: 20px;
+}
+
+.flashcard-box-item{
+    text-align: center;
+}
+
+.flashcard p{
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    color: #2E2D2E;
+}
+
+.flashcard-facil{
+
+    border-left: 20px solid #1DAB1A;
+
+}
+
+.flashcard-medio{
+
+    border-left: 20px solid #E8910E;
+
+}
+
+.flashcard-dificil{
+
+    border-left: 20px solid #FE0000;
+
+}
+
+.flashcard-categoria{
+    background-color: #C9C5CC;
+    display: inline;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.resposta-flashcard{
+    background-color: rgba(255, 255, 255, .08);
+    border-top: 1px solid rgba(255, 255, 255, .06);
+    padding: 20px;
+    display: none;
+}
+
+.icone-exit{
+    float: right;
+    font-size: 25px;
+    color: orangered;
+}
